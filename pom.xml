@@ -94,7 +94,7 @@
 		
 	</dependencies>
 	
-<!-- 	<distributionManagement>
+ 	<distributionManagement>
 	
 	    <repository>
 	      <id>nexus</id>
@@ -105,10 +105,10 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.143.173:8081/repository/flipkart-snapshot/</url>
+	      <url>http://localhost:8081/repository/mithun_java/</url>
 	    </snapshotRepository>
 	    
-	</distributionManagement> -->
+	</distributionManagement>
 	
 	<build>
 		<finalName>maven-web-application</finalName>
